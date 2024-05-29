@@ -53,8 +53,8 @@
 
 ## **Статистические онлайн-калькуляторы**
 
-["A/B Test Calculator by Gleb Mikhaylov"](https://glebmikha.github.io/ab-test-calculator-by-gleb-mikhaylov/ "Ссылка на онлайн-калькулятор Глеба Михайлова")
+[A/B Test Calculator by Gleb Mikhaylov](https://glebmikha.github.io/ab-test-calculator-by-gleb-mikhaylov/ "Ссылка на онлайн-калькулятор Глеба Михайлова")
 
-["Evan Miller Sample Size Calculator"](https://www.evanmiller.org/ab-testing/sample-size.html "Ссылка на Sample Size Calculator Эвана Миллера")
+[Evan Miller Sample Size Calculator](https://www.evanmiller.org/ab-testing/sample-size.html "Ссылка на Sample Size Calculator Эвана Миллера")
 
 ---
